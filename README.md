@@ -6,10 +6,15 @@ AI Desktop Voice Assistant is a smart and interactive voice-controlled assistant
 
 Features :
 Voice interaction using Speech Recognition
+
 Google, Wikipedia, YouTube search and playback
+
 Set alarms using natural language (e.g., “set alarm for 2 hours 30 minutes”)
+
 Focus Mode: Blocks distracting websites and tracks focus time
+
 Focus Graph: Visualizes your focus history using matplotlib
+
 Control system volume
 Perform calculations using WolframAlpha API
 Fetch latest news by category
