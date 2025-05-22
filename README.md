@@ -16,23 +16,40 @@ Focus Mode: Blocks distracting websites and tracks focus time
 Focus Graph: Visualizes your focus history using matplotlib
 
 Control system volume
+
 Perform calculations using WolframAlpha API
+
 Fetch latest news by category
+
 Send WhatsApp messages using pywhatkit
+
 Splash screen with sound and animation (Tkinter, PIL, Pygame)
 
+
 Requirements :
+
 pyttsx3
+
 speechrecognition
+
 wikipedia
+
 pywhatkit
+
 wolframalpha
+
 requests
+
 pyautogui
+
 pygame
+
 matplotlib
+
 pynput
+
 Pillow
+
 tkinter 
 
 
