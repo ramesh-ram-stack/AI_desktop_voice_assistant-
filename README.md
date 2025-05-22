@@ -5,6 +5,7 @@ An intelligent, voice-controlled desktop assistant built with Python. "Charlie" 
 AI Desktop Voice Assistant is a smart and interactive voice-controlled assistant developed using Python. It enables users to perform a wide range of tasks hands-free through voice commands, such as opening applications, searching Google, playing YouTube videos, fetching information from Wikipedia, setting alarms, controlling system volume, sending WhatsApp messages, and more. It includes productivity tools like Focus Mode, which blocks distracting websites and logs focus time, and a Focus Graph feature to visualize productivity patterns. The assistant features a modern splash screen with sound and animation for an engaging startup experience. Designed primarily for Windows, Charlie is an all-in-one desktop assistant that enhances efficiency, supports multitasking, and simplifies daily computing with natural language interaction.
 
 Features :
+
 Voice interaction using Speech Recognition
 
 Google, Wikipedia, YouTube search and playback
@@ -24,6 +25,8 @@ Fetch latest news by category
 Send WhatsApp messages using pywhatkit
 
 Splash screen with sound and animation (Tkinter, PIL, Pygame)
+
+
 
 
 Requirements :
